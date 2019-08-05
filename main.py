@@ -6,7 +6,7 @@ import re
 # SETTINGS #
 ############
 
-input_file = "porch gang.csv"
+input_file = "in.csv"
 output_file = "out.csv"
 include_reacts = True
 
